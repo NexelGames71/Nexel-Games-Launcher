@@ -1,0 +1,29 @@
+[
+  {
+    "id": "horizon",
+    "title": "Horizon Skies",
+    "genre": "Adventure",
+    "description": "Explore floating isles in a sprawling single-player story.",
+    "status": "available",
+    "install_path": null,
+    "last_played": null
+  },
+  {
+    "id": "starfall",
+    "title": "Starfall Tactics",
+    "genre": "Strategy",
+    "description": "Command a fleet and outmaneuver rivals across the sector.",
+    "status": "installed",
+    "install_path": "/games/Starfall",
+    "last_played": null
+  },
+  {
+    "id": "orbit-racer",
+    "title": "Orbit Racer",
+    "genre": "Racing",
+    "description": "Boost through zero-G circuits with online leaderboards (coming soon).",
+    "status": "available",
+    "install_path": null,
+    "last_played": null
+  }
+]
